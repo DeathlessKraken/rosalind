@@ -10,6 +10,7 @@ The Hamming distance dH(s,t).
 ## Sample Dataset:
 
 GAGCCTACTAACGGGAT
+
 CATCGTAATGACGGCCT
 
 ## Sample Output:
